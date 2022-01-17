@@ -2,11 +2,11 @@ Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 ### structure
- -components folder have all tree view components . reusable in any react app. added as simple code line .
- -view folder have pages
- -helper folder convert function added for reusable function
- -data folder js data added ,
- -future we can convert this project as a plugin .
+-  components folder have all tree view components . reusable in any react app. added as simple code line .
+-  view folder have pages
+-  helper folder convert function added for reusable function
+-  data folder js data added ,
+-  future we can convert this project as a plugin .
  
 ### Available Scripts
 In the project directory, you can run:
